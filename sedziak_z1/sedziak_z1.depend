@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1483450274 source:d:\user\documents\no.life\c++\studia\sedziak_z1\main.cpp
+	<iostream>
+	<limits>
+	<cstdlib>
+

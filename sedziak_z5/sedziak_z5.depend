@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1485115490 source:d:\user\documents\no.life\c++\studia\sedziak_z5\main.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<time.h>
+	<stdlib.h>
+
